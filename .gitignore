@@ -1,0 +1,5 @@
+.research-workflow/
+node_modules/
+qa/
+*.zip
+*.log
