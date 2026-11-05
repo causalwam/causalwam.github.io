@@ -17,6 +17,6 @@ Verified on 2026-11-06 using local Chrome 156.0.8078.80 through Playwright Core.
 - All font and media assets are served locally. No external runtime requests occurred during browser verification.
 - Narrative headings follow setup, the ambiguity/sparsity/identification argument, practical estimator and empirical questions. The five-row synthetic table is present; both user-supplied MP4s remain byte-identical and are the primary robot demonstration media.
 
-The website is ready for static hosting. GitHub repository creation, publication, external author-link availability, and real-device / non-Chromium browser testing were not performed. The precise public URL is needed before making Open Graph image and canonical metadata absolute.
+Published at https://causalwam.github.io/ from https://github.com/causalwam/causalwam.github.io on 2026-11-06. GitHub Pages uses main:/ with HTTPS enforced. Canonical and Open Graph URLs use the public site address. Live Chromium verification passed all six viewport widths, video playback and controls, result tabs and keyboard navigation, citation copying, image dialog, and disclosure checks with no JavaScript errors or failed responses. The page, official figure, sharing image and both videos returned HTTP 200; downloaded video hashes match the supplied originals. Real-device / non-Chromium browser testing and external author-link availability were not checked.
 
 The website source and the provided paper assets were checked; no new experiment was run and no scientific result was independently reproduced.

@@ -2,7 +2,7 @@
 
 Academic project page for **CausalWAM: Learning the Causes of Actions in World Action Models** ([paper](https://arxiv.org/pdf/2610.42096)).
 
-Intended website: https://causalwam.github.io/
+Website: https://causalwam.github.io/
 
 This repository contains the project website. Research implementation links will be added when available.
 
@@ -18,7 +18,7 @@ Open http://127.0.0.1:8018. No build or package installation is required.
 
 Edit `index.html`, `styles.css`, and `app.js` for content, styling, and interactions. Configure public links in `site-config.js`; an empty research code URL keeps that button hidden. Keep the citation in `index.html` and `citation.bib` consistent.
 
-The intended organization Pages repository is `causalwam/causalwam.github.io`, served from branch `main`, root directory. The `.nojekyll` file enables plain static hosting.
+The organization Pages repository is `causalwam/causalwam.github.io`, served from branch `main`, root directory. The `.nojekyll` file enables plain static hosting.
 
 ## Assets
 
